@@ -1,10 +1,10 @@
-q1) Using os.environ to get a complete list of all the enviroment variables along with their values
+q1) Using os.environ to get a complete list of all the environment variables along with their values
 
-q2) The 'QUERY_STRING' enviroment variable
+q2) The 'QUERY_STRING' environment variable
 
-q3) The 'HTTP_USER_AGENT' enviroment variable
+q3) The 'HTTP_USER_AGENT' environment variable
 
-q4) By using the form.getfirst() method
+q4) In the form of key-value pairs
 
 q5) 'Set-Cookie:'
 
@@ -12,3 +12,4 @@ q6) 'Cookie:'
 
 q7) They are used to identify you when you visit a webpage you have not visited before
 
+q8) https://github.com/marzookh/cmput404Lab3
