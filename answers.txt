@@ -1,0 +1,14 @@
+q1) Using os.environ to get a complete list of all the enviroment variables along with their values
+
+q2) The 'QUERY_STRING' enviroment variable
+
+q3) The 'HTTP_USER_AGENT' enviroment variable
+
+q4) By using the form.getfirst() method
+
+q5) 'Set-Cookie:'
+
+q6) 'Cookie:'
+
+q7) They are used to identify you when you visit a webpage you have not visited before
+
